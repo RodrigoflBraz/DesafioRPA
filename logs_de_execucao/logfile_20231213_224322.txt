@@ -1,0 +1,2 @@
+2023-12-13 22:44:18 / INFO / Teste
+2023-12-13 22:44:18 / ERROR / Erro teste integer division or modulo by zero
